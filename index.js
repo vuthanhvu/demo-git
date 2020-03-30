@@ -6,5 +6,5 @@ function Mouse(name) {
 }
 
 Mouse.prototype.eat = function(name) {
-    name = 'DOG';
+    name = 'DOG2';
 };
