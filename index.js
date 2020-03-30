@@ -12,3 +12,5 @@ Mouse.prototype.eat = function(name) {
 function Cat(nameCat) {
     this.stomach = [];
 }
+
+console.log('Cat');
